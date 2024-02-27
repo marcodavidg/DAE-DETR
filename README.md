@@ -2,7 +2,7 @@
   
 # Domain Adaptive Edge-guided DETR for Object Detection
 
-[Full Thesis work here](thesis.pdf)
+[Full Thesis work here](Thesis.pdf)
 </div>
 
 This research introduces a novel plug-and-play module tailored for enhancing the generalization capacity of the DETR framework. Leveraging this module, we achieved a substantial 1.9% performance improvement in a competitive state-of-the-art model, elevating detection accuracy from 46.8% to 48.7%. Our approach strategically exploits domain-agnostic information to refine decoder queries, thereby contributing to improved detection performance. This study sheds light on the potential of integrating specialized modules to enhance the capabilities of object detection models like DETR, with implications for advancing performance across diverse domains.
